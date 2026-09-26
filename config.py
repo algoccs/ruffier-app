@@ -37,5 +37,18 @@ TXT_INDEX = 'Su índice de Ruffier es: '
 TXT_WORKOUT = 'Rendimiento cardíaco: '
 
 STYLES = '''
+    QWidget {
+        background-color:#2e2f30;
+        color: white;
+        font-size: 16px;
+    }
 
+
+    QPushButton {
+        border-radius: 12px;
+        padding: 10px;
+        background-color: #1f4366;
+        color: white;
+        font-weight: 600;
+    }
 '''
